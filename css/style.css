@@ -1,0 +1,7 @@
+body { font-family: 'Roboto', sans-serif; }
+.borda img { border-radius: 20%; }
+.apple-icon img { background: #000; }
+.android-icon img { border-radius: 0px; border: none; }
+.ios { background-image:url(../img/bck-ios.jpg); }
+.android { background-image:url(../img/bck-android.jpg); }
+.ios, .android { margin: 10px 0; border-radius: 30px; }
