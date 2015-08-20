@@ -26,8 +26,8 @@ Simple page to convert you website icon into apple touch icon and favicon, perfe
 Need some improvements:
 - Validation for .PNG file
 - Get all the code to a single page
-- put the icon sizes into one array to make it simple, the code is repeating several times, sorry for that!
-- make a code to .ZIP all the files for download.
+- Code an array to make it simple, the code is repeating several times, sorry for that!
+- Make a code to .ZIP all the files for download.
 
 Please help! ;-)
 
