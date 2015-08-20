@@ -6,6 +6,7 @@ Se você tem sempre o cuidado de criar ícones para o seu site, daqueles que pod
 Uma simples página em PHP que resolve tudo pra você!
 
 Melhorias necessárias:
+- Validação para o tipo de arquivo enviado (.PNG)
 - Incorporar todo o código em uma única página
 - Criar um array para os tamanhos, fiz as pressas e o código está repetido toscamente.
 - Criar um código pra gerar o .ZIP com os ícones convertidos para o Download.
@@ -23,7 +24,7 @@ Convert your icon to apple touch icon and favicon.
 Simple page to convert you website icon into apple touch icon and favicon, perfect to smartphone and tablets (add to home screen browser function).
 
 Need some improvements:
-
+- Validation for .PNG file
 - Get all the code to a single page
 - put the icon sizes into one array to make it simple, the code is repeating several times, sorry for that!
 - make a code to .ZIP all the files for download.
