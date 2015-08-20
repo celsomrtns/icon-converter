@@ -1,3 +1,4 @@
+![Logo](http://www.celsomartins.com.br/icon/favicon-196x196.png)
 # icon-converter
 Converta seu ícone para apple-touch-icon e favicon
 
