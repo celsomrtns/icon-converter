@@ -207,7 +207,7 @@ echo '
     <meta property="og:image" content="http://www.websitedomain.com/image.jpg" />
 
 
-    <title>Icon Generator</title>
+    <title>Icon Converter</title>
 
     <!-- CSS Styles -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -303,8 +303,8 @@ echo '
             
             <div class="col-md-12 text-center">
             	<hr>
-                <p>Icon Generator - by <a href="http://www.celsomartins.com.br" target="new">CELSOMARTINS.COM</a><br />
-                <a href="https://github.com/celsomrtns/icon-generator" target="new"><i class="fa fa-github"></i> Github Project</a></p>
+                <p>Icon Converter - by <a href="http://www.celsomartins.com.br" target="new">CELSOMARTINS.COM</a><br />
+                <a href="https://github.com/celsomrtns/icon-converter" target="new"><i class="fa fa-github"></i> Github Project</a></p>
                 <hr>
             </div>
             
